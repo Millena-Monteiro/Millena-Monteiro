@@ -38,7 +38,7 @@ Que 2026 venha cheio de novos projetos e muitas conquistas! 🎅🎁
 
 <p>
   <img src="https://i.imgur.com/ukFIC9b.png" alt="Email" height="25px" style="vertical-align:middle;" /> 
-  <a href="707millenamonteiro@gmail.com">707millenamonteiro@gmail.com</a>
+  <a href="malito:707millenamonteiro@gmail.com">707millenamonteiro@gmail.com</a>
 </p>
 
 <p>
@@ -50,5 +50,6 @@ Que 2026 venha cheio de novos projetos e muitas conquistas! 🎅🎁
   <img src="https://i.imgur.com/nm4GBVJ.png" alt="LinkedIn" height="25px" style="vertical-align:middle;" /> 
   <a href="https://www.linkedin.com/in/millena-monteiro-diniz/" target="_blank">linkedin.com/in/millena-diniz</a>
 </p>
+
 
 
